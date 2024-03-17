@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lương Vũ Đình Duy</h1>
 <h3 align="center">A .NET and Database developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duy-ne&label=Profile%20views&color=0e75b6&style=flat" alt="duy-ne" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=duy-ne&label=Profile%20views&color=0e75b6&style=flat" alt="DuyNe07" /> </p>
 
 - 🔭 I’m currently working on **Grocery Store**
 
@@ -29,6 +29,6 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duy-ne&show_icons=true&locale=en&layout=compact" alt="duy-ne" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duy-ne&show_icons=true&locale=en&layout=compact" alt="DuyNe07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duy-ne&show_icons=true&locale=en" alt="duy-ne" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duy-ne&show_icons=true&locale=en" alt="DuyNe07" /></p>
