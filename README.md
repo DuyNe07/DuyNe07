@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lương Vũ Đình Duy</h1>
-<h3 align="center">A Data engineer & .NET developer</h3>
+<h3 align="center">A Data engineer & AI/ML developer</h3>
 
 - 🔭 I’m currently learning at **HCMC University of Technology and Education**
-
-- 🌱 I’m currently learning **ASP.NET, .NET Core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DuyNe07](https://github.com/DuyNe07)
 
